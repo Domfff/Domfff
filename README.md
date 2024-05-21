@@ -5,7 +5,7 @@
 | Domain | My experience |
 |-----:|-----------|
 |🌮 Food| I love food, personally and professionally. Packaged, fresh, whatever. I have developed and launched tens of food products under several brands. [Pico](https://www.picochocolate.com/) chocolate is an example, ranged globally.|
-|🥤 Drinks| Similar story to food. I have done all kinds of plant milk, water and kombucha. [Nutty Bruce](9https://drinkbruce.com/pages/home-au) plant milk is another international example.|
+|🥤 Drinks| Similar story to food. I have done drinks including all kinds of plant milk, water and kombucha. [Nutty Bruce](https://drinkbruce.com/pages/home-au) is another international example.|
 |🧴 Personal Care| I'm going to go out on a limb here and say I'm in the top 1% of people in the world regarding hand wash. I have done lots of work in this space. [Thankyou](https://thankyou.co/) is who I've done it for.|
 |🏬 CPG/FMCG| Consumer Packaged Goods / Fast Moving Consumer Goods. I've spent a lot of time talking about supermarkets and things that are sold in them.|
 |🚀 Marketing| I'm a marketer. I've done all sorts of it. Campaigns, websites, pitches, strategy, planning, design, packaging etc.|
