@@ -26,3 +26,6 @@ I’m on the hunt for some real world projects to work on. If you have a pile of
 ### Jobs
 Given my experience in marketing and business and my communication skills, I know there are places for someone like me. Roles where a nice blend of quant and comms are just what the doctor ordered. I have a good grasp of how to get to the bottom of what people want information wise and experience in wrangling into useful shapes and sizes. Fruitfully collaborating with colleagues of all stripes has been a central theme to my work life. If there is a Dom-shaped hole in your organisation, let's chat! 
 
+<a href="https://www.linkedin.com/in/dom-fitzgerald/">
+  <img src="https://github.com/Domfff/Domfff/blob/b31b8bb7013b9c7d7024d53f604a21de76b88a10/linkedin%20logo.png" alt="LinkedIn" width="22.5" height="22.5">
+</a>
